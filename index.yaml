@@ -3,12 +3,22 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-04T21:11:31.887377948+03:00"
+    created: "2024-12-06T23:13:45.341908515+03:00"
     description: A Helm chart for Kubernetes
-    digest: 708cab9119bdf3bc2456586b7903950f4672edbcdded0fec9257a16ce7eba066
+    digest: bbe6e443248f80bca5740bf192de22c4f5c40aab23425b411166ce94acf99897
+    name: jenkins
+    type: application
+    urls:
+    - https://dmitry-kitsune.github.io/helm-jenkins/helm-releases/jenkins-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-06T23:13:45.34134102+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 687a3cc8486c38e1f9c55e5b59287995ba059f1d0480345f218f143538be9828
     name: jenkins
     type: application
     urls:
     - https://dmitry-kitsune.github.io/helm-jenkins/helm-releases/jenkins-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-04T21:11:31.886691843+03:00"
+generated: "2024-12-06T23:13:45.340689026+03:00"
